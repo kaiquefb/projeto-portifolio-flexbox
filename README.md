@@ -13,6 +13,6 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ## Feito por:
 
-### Joana Santos
+### Kaique Fernando Batista
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Github: https://github.com/kaiquefb
