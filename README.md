@@ -17,4 +17,4 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ### Github: https://github.com/kaiquefb
 
-### Online: https://kaiquefb.github.io/html-css-portifolio/
+### Online: https://kaiquefb.github.io/projeto-portifolio-flexbox/
